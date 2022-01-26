@@ -1,0 +1,8 @@
+body {
+    background-color: var(--bs-gray-dark);
+}
+
+.conteudo {
+    width: 100%;
+    max-width: 400px;
+}
